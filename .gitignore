@@ -5,6 +5,7 @@ __pycache__/
 
 # Virtual environment
 venv/
+.venv/
 .env/
 
 # Jupyter Notebook checkpoints
@@ -22,9 +23,7 @@ data/processed/
 
 # Results and outputs
 results/
-*.csv
 *.tsv
-*.json
 *.h5
 *.pickle
 
